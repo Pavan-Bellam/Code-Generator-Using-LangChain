@@ -39,7 +39,7 @@ This project uses OpenAI's language model to generate code snippets based on use
 Run the script with the desired task and programming language:
 
 ```sh
-python generate_code.py --task "your task" --language "your language"
+python main.py --task "your task" --language "your language"
 ```
 
 ### Arguments
